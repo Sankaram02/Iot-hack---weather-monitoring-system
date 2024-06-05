@@ -1,7 +1,7 @@
 # Iot-hack---weather-monitoring-system
 
 
-🔸For this project we secured 1 position in IoT Hackthon 
+🔸Iot-hack---weather-monitoring-system is a Weather monitoring system integrated with Machine Learning and for this project we secured 1 position in IoT Hackthon conducted by Sri Vasavi Engineering College 
 
 🔹Developed a cutting-edge project integrating BMP180 sensors to gather temperature, pressure, and altitude data alongside rain sensors.
 
