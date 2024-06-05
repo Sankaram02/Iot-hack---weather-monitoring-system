@@ -1,5 +1,8 @@
 # Iot-hack---weather-monitoring-system
 
+
+🔸For this project we secured 1 position in IoT Hackthon 
+
 🔹Developed a cutting-edge project integrating BMP180 sensors to gather temperature, pressure, and altitude data alongside rain sensors.
 
 🔸Implemented seamless data visualization and monitoring through Blynk and ThingSpeak platforms, providing real-time insights into environmental conditions.
